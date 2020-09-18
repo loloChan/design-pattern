@@ -15,6 +15,7 @@
     <modules>
         <module>adapter-pattern-demo-01</module>
         <module>bridge-pattern-demo</module>
+        <module>composite-pattern-demo</module>
     </modules>
 
 
