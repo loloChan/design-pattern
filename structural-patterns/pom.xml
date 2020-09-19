@@ -18,6 +18,7 @@
         <module>composite-pattern-demo</module>
         <module>decorator-pattern-demo</module>
         <module>facade-pattern-demo</module>
+        <module>flyweight-pattern-demo</module>
     </modules>
 
 
