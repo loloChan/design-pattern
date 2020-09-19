@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="bridge-pattern-demo" />
+        <module name="facade-pattern-demo" />
         <module name="adapter-pattern-demo-01" />
         <module name="composite-pattern-demo" />
         <module name="decorator-pattern-demo" />

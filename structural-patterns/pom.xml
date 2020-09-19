@@ -17,6 +17,7 @@
         <module>bridge-pattern-demo</module>
         <module>composite-pattern-demo</module>
         <module>decorator-pattern-demo</module>
+        <module>facade-pattern-demo</module>
     </modules>
 
 

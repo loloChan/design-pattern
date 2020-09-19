@@ -1,0 +1,9 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: hello_world
+cjy:
+  door:
+    white-list: "66715,99812,77988"
+    enabled: true
