@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>adapter-pattern-demo-01</artifactId>
+    <description>适配器模式</description>
 
 
 </project>
