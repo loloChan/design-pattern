@@ -11,18 +11,5 @@
 
     <artifactId>command-pattern-demo</artifactId>
     <description>命令模式</description>
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <configuration>
-                    <source>7</source>
-                    <target>7</target>
-                </configuration>
-            </plugin>
-        </plugins>
-    </build>
-
 
 </project>
