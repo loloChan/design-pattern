@@ -3,19 +3,14 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>design-pattern</artifactId>
+        <artifactId>behavioral-patterns</artifactId>
         <groupId>cjy.designpattern.demo</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>behavioral-patterns</artifactId>
-    <packaging>pom</packaging>
-
-    <description>行为型设计模式</description>
-    <modules>
-        <module>chain_of_responsibility-pattern-demo</module>
-    </modules>
+    <artifactId>chain_of_responsibility-pattern-demo</artifactId>
+    <description>责任链模式</description>
 
 
 </project>
