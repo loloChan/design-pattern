@@ -16,6 +16,7 @@
     <modules>
         <module>chain_of_responsibility-pattern-demo</module>
         <module>command-pattern-demo</module>
+        <module>interpreter-pattern-demo</module>
     </modules>
 
 

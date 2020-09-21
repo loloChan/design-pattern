@@ -10,6 +10,7 @@
         <module name="facade-pattern-demo" />
         <module name="command-pattern-demo" />
         <module name="adapter-pattern-demo-01" />
+        <module name="interpreter-pattern-demo" />
         <module name="bridge-pattern-demo" />
         <module name="flyweight-pattern-demo" />
         <module name="composite-pattern-demo" />
