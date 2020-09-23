@@ -18,6 +18,7 @@
         <module>command-pattern-demo</module>
         <module>interpreter-pattern-demo</module>
         <module>iterator-pattern-demo</module>
+        <module>mediator-pattern-demo</module>
     </modules>
 
 

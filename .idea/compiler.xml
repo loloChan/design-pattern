@@ -16,6 +16,7 @@
         <module name="flyweight-pattern-demo" />
         <module name="composite-pattern-demo" />
         <module name="proxy-pattern-demo" />
+        <module name="mediator-pattern-demo" />
         <module name="decorator-pattern-demo" />
         <module name="chain_of_responsibility-pattern-demo" />
       </profile>
