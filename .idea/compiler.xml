@@ -15,6 +15,7 @@
         <module name="facade-pattern-demo" />
         <module name="adapter-pattern-demo-01" />
         <module name="iterator-pattern-demo" />
+        <module name="observer-pattern-demo" />
         <module name="flyweight-pattern-demo" />
         <module name="composite-pattern-demo" />
         <module name="mediator-pattern-demo" />

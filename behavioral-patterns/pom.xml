@@ -20,6 +20,7 @@
         <module>iterator-pattern-demo</module>
         <module>mediator-pattern-demo</module>
         <module>memento-pattern-demo</module>
+        <module>observer-pattern-demo</module>
     </modules>
 
 
