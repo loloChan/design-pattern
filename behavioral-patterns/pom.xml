@@ -21,6 +21,7 @@
         <module>mediator-pattern-demo</module>
         <module>memento-pattern-demo</module>
         <module>observer-pattern-demo</module>
+        <module>state-pattern-demo</module>
     </modules>
 
 

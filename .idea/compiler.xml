@@ -18,6 +18,7 @@
         <module name="observer-pattern-demo" />
         <module name="flyweight-pattern-demo" />
         <module name="composite-pattern-demo" />
+        <module name="state-pattern-demo" />
         <module name="mediator-pattern-demo" />
         <module name="decorator-pattern-demo" />
         <module name="chain_of_responsibility-pattern-demo" />
