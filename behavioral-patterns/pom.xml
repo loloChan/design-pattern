@@ -22,6 +22,7 @@
         <module>memento-pattern-demo</module>
         <module>observer-pattern-demo</module>
         <module>state-pattern-demo</module>
+        <module>strategy-pattern-demo</module>
     </modules>
 
 

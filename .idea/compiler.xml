@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="command-pattern-demo" />
         <module name="interpreter-pattern-demo" />
+        <module name="strategy-pattern-demo" />
         <module name="memento-pattern-demo" />
         <module name="bridge-pattern-demo" />
         <module name="proxy-pattern-demo" />
